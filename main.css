@@ -30,7 +30,9 @@ html,body {
 #intro {
 	position: relative;
 	height: 100vh;
-	background-image: url('noimage.jpg');
+	background-image: url('assets/img/background.png');
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 #logo {
